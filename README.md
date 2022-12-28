@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zila0x
+- 👋 Hi, I’m Mosed
 - 👀 I’m interested in frontend engineering
 - 🌱 I’m currently learning JavaScript & ReactJS
 - 💞️ I’m looking to collaborate on any web project
