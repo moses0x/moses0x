@@ -1,6 +1,8 @@
 ### Hi there!
 
-I'm Moses. I work as a frontend engineer in training gi. In my spare time, I’m an autodidact and love to read engineering blogs + watch YouTube videos to see what’s new in the Javascript ecosystem. I do open-sourcing.
+I'm Moses. I work as a frontend engineer in training and a student of computer science. 
+
+In my spare time, I’m an autodidact and love to read engineering blogs + watch YouTube videos to see what’s new in the Javascript ecosystem. I do open-sourcing.
 
 I love to work on [solutions](https://github.com/moses0x/) that drive progress and make a tangible impact. Having a track record of initiating and leading successful projects & teams; I thrive in challenging, fast-paced environments.
 
