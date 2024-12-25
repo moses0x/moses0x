@@ -6,7 +6,7 @@ In my spare time, I’m an autodidact and love to read engineering blogs + watch
 
 I love to work on [solutions](https://github.com/moses0x/) that drive progress and make a tangible impact. Having a track record of initiating and leading successful projects & teams; I thrive in challenging, fast-paced environments.
 
-There are also [other projects]([https://trekhleb.dev/projects/](https://github.com/moses0x/) that I've developed for fun but that you might find useful, like ✍🏻 [okso.app](https://okso.app/) online drawing app.
+There are also [other projects]([https://github.com/moses0x/](https://github.com/moses0x/) that I've developed for fun but that you might find useful, like ✍🏻 [hello.app]([https://github.com/moses0x/](https://github.com/moses0x/)) online drawing app.
 
 I also write 📝 [articles](https://dev.to/moses0x) about life, web development and technology.
 
